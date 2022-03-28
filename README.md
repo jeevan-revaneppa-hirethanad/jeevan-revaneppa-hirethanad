@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on building ASR and TTS for various Indian Languages.
 - 👯 I’m looking to collaborate on ASR and TTS projects.
 - 💬 Ask me about related ASR, TTS.
+- Contact : jeevanjeevan658@gmail.com
 
 ![Jeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeevan-revaneppa-hirethanad&show_icons=true)
 
