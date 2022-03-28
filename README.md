@@ -1,7 +1,7 @@
 ### Hi there, I'm Jeevan  👋
 - 🔭 I’m currently working on building ASR and TTS for various Indian Languages.
 - 👯 I’m looking to collaborate on ASR and TTS projects.
-- 💬 Ask me about related ASR, TTS and related to speech.
+- 💬 Ask me about related ASR, TTS.
 
 ![Jeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeevan-revaneppa-hirethanad&show_icons=true)
 
